@@ -1,0 +1,19 @@
+{
+  "name": "hamburger-menus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norman02/hamburger-menus.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/norman02/hamburger-menus/issues"
+  },
+  "homepage": "https://github.com/norman02/hamburger-menus#readme"
+}
